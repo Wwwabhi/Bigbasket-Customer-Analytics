@@ -1,8 +1,7 @@
 
 Bigbasket Customer Analytics
 
-The "Big Basket" project uses ML and AI for data optimization, advanced algorithms, and practical techniques to enhance online grocery efficiency.
-
+The "Big Basket" project focuses on leveraging Machine Learning and Artificial Intelligence to enhance the efficiency of an online grocery platform. Participants will delve into various techniques such as Data Preprocessing, Filtering, Encoding, Serialization, Clustering, Entropy, and Algorithm Training. The course equips individuals with the skills needed to optimize data for meaningful insights, improve data representation, and employ advanced algorithms to enhance the overall functionality of the Big Basket platform. Participants will gain practical experience in applying these techniques to create a robust and intelligent system for the online grocery domain.
 
 
 
